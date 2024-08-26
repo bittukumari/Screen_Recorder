@@ -1,0 +1,6 @@
+opencv-python
+numpy
+Pillow
+streamlit
+# System-level dependencies
+libgl1-mesa-glx
